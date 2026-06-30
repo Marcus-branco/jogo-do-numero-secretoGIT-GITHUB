@@ -2,4 +2,6 @@
 
 1.1 Alterar limite para 100 utilizando ferramentas GIT
 
-1.2 Alterar README.md para incluir alterações
+1.2 Alterar README.md para incluir alterações utilizando comandos GIT
+
+1.3 Alterar limite para 50 utilizando ferramentas visuais do VSCODE
