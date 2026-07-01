@@ -5,3 +5,5 @@
 1.2 Alterar README.md para incluir alterações utilizando comandos GIT
 
 1.3 Alterar limite para 50 utilizando ferramentas visuais do VSCODE
+
+1.4 Remoção da imagem no HTML para testar o commit revert
