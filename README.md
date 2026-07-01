@@ -9,3 +9,5 @@
 1.4 Remover imagem para Teste
 
 1.5 Revert "Remover imagem para teste"
+
+1.6 Apagar commits e Merges feitos de forma incorreta
